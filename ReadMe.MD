@@ -33,3 +33,33 @@ I create dev branch with command
 1. git branch dev
 2. git branch
 3. git checkout dev
+
+Task 4 
+
+ I create hello.txt file in dev branch
+ with command
+ 1. nano hello.txt with text Hello World from the dev branch!
+ 2. git add .
+ 3. git commit -m "Hello.txt added to Dev branch"
+ 4. git push -u origin dev
+
+Task 5
+
+i pull dev branch with command
+
+1. git pull
+2. change my hello.txt file
+3. git add .
+4. git commit -m "More Changes done in Dev Branch after Pull Request"
+5. git  git push -u origin dev
+
+Taks 5:
+
+I now switch to main branch with command 
+
+1. git checkout main
+2. git merge dev
+
+After that i found hello.txt in dev and main have same data
+
+
