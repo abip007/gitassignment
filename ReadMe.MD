@@ -4,8 +4,11 @@ on Project
 Task 1
 
 1. Git init (To initialize as git repo)
+
 2.Git add .
+
 3.git branch -M main
+
 4 git commit - m " First Commit "
 
 Task 2
