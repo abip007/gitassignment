@@ -20,7 +20,7 @@ I created gitassignment repo in github with public
 Before push i need to generate key to get permission
 
 i genereate ssh key with command 
-ssh-keygen -t ed25519 -C "email@gmail.com"
+ssh-keygen -t ed25519 -C "abip007@gmail.com"
 then i get key with command 
 cat ~/.ssh/id_ed25519.pub
 
